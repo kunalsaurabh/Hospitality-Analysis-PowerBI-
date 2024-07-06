@@ -1,6 +1,6 @@
 # AtliQ Hospitality Analysis - PowerBI
 
-[Link to Interactive Dashboard](#)
+[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTQ1ZWZmMjgtNDkzMi00ZDRkLTk5MGItMTZiZGU1YmM0OTNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem Statement
 Atliq Grands, a prominent chain of five-star hotels across India, has been struggling to maintain its market share and revenue in the luxury/business hotel sector. Despite their 20 years of experience in the hospitality industry, strategic moves by competitors and ineffective management decisions have impacted their performance. To regain their market share and revenue, the managing director of Atliq Grands decided to incorporate Business and Data Intelligence. However, the company lacks an in-house data analytics team, so they hired a third-party service provider to gain insights from their historical data.
