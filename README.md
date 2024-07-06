@@ -13,7 +13,7 @@ As a data analyst, you have been provided with sample data and a mock-up dashboa
 3. Generate additional relevant insights not specified in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
-![Mock-up Dashboard](#https://github.com/kunalsaurabh/Hospitality-Analysis-PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png)
+![Mock-up Dashboard](https://github.com/kunalsaurabh/Hospitality-Analysis-PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png)
 
 ## Learnings from the Project
 - **New Visual Creation:** Developed a Calendar visual using a matrix table, which can be utilized for various analytical purposes.
